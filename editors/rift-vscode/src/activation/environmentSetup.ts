@@ -14,7 +14,7 @@ const PACKAGE_JSON_RAW_GITHUB_URL =
   "https://raw.githubusercontent.com/morph-labs/rift/HEAD/editors/rift-vscode/package.json";
 
 const WINDOWS_REMOTE_SIGNED_SCRIPTS_ERROR =
-    "A Python virtual enviroment cannot be activated because running scripts is disabled for this user. In order to use Rift, please enable signed scripts to run with this command in PowerShell: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`, reload VS Code, and then try again.";
+    "A Python virtual environment cannot be activated because running scripts is disabled for this user. In order to use Rift, please enable signed scripts to run with this command in PowerShell: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`, reload VS Code, and then try again.";
 
 const MAX_RETRIES = 3;
 
